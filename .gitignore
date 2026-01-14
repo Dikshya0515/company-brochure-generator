@@ -1,1 +1,6 @@
 .ipynb_checkpoints/
+*.pdf
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+*.ipynb
