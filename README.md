@@ -40,9 +40,12 @@ ollama-python
 
 from brochure\_generator import create\_company\_brochure
 
+
+
 create\_company\_brochure("Tesla", "https://www.tesla.com")
 
 ```
+
 
 
 \## Installation
@@ -65,15 +68,9 @@ pip install requests beautifulsoup4 fpdf ollama-python
 
 ollama serve
 
+```
+
+
+
 4\. Use the generator!
-
-## Tech Stack
-- Python
-- Jupyter Notebook
-- Ollama
-- Requests
-- BeautifulSoup
-
-## Author
-Dikshya
 
